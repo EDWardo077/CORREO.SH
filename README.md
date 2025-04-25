@@ -1,12 +1,7 @@
 # CORREO.SH
-Perfecto. Aquí tienes un script en **bash** que te pide:
 
-- El destinatario del correo  
-- El asunto  
-- El cuerpo del mensaje  
-- Y **añade la hora actual del servidor** al final del cuerpo  
 
-El correo será enviado **desde tu servidor usando `mail` y Postfix**, al correo `os3conadrian@gmail.com`.
+El correo será enviado **desde tu servidor usando `mail` y Postfix**.
 
 ---
 
